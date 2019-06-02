@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElreyB/nodefiles.git"
+  },
+  "author": "Elrey C. Belmonti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElreyB/nodefiles/issues"
+  },
+  "homepage": "https://github.com/ElreyB/nodefiles#readme"
+}
